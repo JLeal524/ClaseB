@@ -1,0 +1,5 @@
+C:\Users\Lg\Desktop\Clase\ClaseB\SQLPRAC1\SQLPRAC1\bin\Debug\SQLDBPrac1.dacpac
+C:\Users\Lg\Desktop\Clase\ClaseB\SQLPRAC1\SQLPRAC1\bin\Debug\SQLPRAC1.dll
+C:\Users\Lg\Desktop\Clase\ClaseB\SQLPRAC1\SQLPRAC1\bin\Debug\SQLPRAC1.pdb
+C:\Users\Lg\Desktop\Clase\ClaseB\SQLPRAC1\SQLPRAC1\obj\Debug\SQLPRAC1.dll
+C:\Users\Lg\Desktop\Clase\ClaseB\SQLPRAC1\SQLPRAC1\obj\Debug\SQLPRAC1.pdb
