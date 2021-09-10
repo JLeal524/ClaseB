@@ -1,0 +1,10 @@
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\obj\Debug\ForoPrac1.csproj.AssemblyReference.cache
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\obj\Debug\ForoPrac1.Form1.resources
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\obj\Debug\ForoPrac1.Properties.Resources.resources
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\obj\Debug\ForoPrac1.csproj.GenerateResource.cache
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\obj\Debug\ForoPrac1.csproj.CoreCompileInputs.cache
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\bin\Debug\ForoPrac1.exe.config
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\bin\Debug\ForoPrac1.exe
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\bin\Debug\ForoPrac1.pdb
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\obj\Debug\ForoPrac1.exe
+C:\Users\Lg\Desktop\Clase\ClaseB\ForoPrac1\ForoPrac1\obj\Debug\ForoPrac1.pdb
